@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l73phy80s-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l73phy80s-nodejs
